@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|c:\\users\\anna.tassinari\\source\\repos\\extensiondatetime\\extensiondatetime\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|solutionrelative:extensiondatetime\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|c:\\users\\anna.tassinari\\source\\repos\\extensiondatetime\\extensiondatetime\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|solutionrelative:extensiondatetime\\datetimeextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|c:\\users\\anna.tassinari\\source\\repos\\extensiondatetime\\extensiondatetime\\seasons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D8D7BD-6980-4149-8D96-24607F3C03F8}|ExtensionDateTime\\ExtensionDateTime.csproj|solutionrelative:extensiondatetime\\seasons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7CBA9-588C-4BA1-A3C5-06252682EA0F}|ExtensionTest\\ExtensionTest.csproj|c:\\users\\anna.tassinari\\source\\repos\\extensiondatetime\\extensiontest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7CBA9-588C-4BA1-A3C5-06252682EA0F}|ExtensionTest\\ExtensionTest.csproj|solutionrelative:extensiontest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +34,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\Class1.cs",
-              "RelativeDocumentMoniker": "ExtensionDateTime\\Class1.cs",
-              "ToolTip": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\Class1.cs",
-              "RelativeToolTip": "ExtensionDateTime\\Class1.cs",
+              "DocumentIndex": 1,
+              "Title": "Seasons.cs",
+              "DocumentMoniker": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\Seasons.cs",
+              "RelativeDocumentMoniker": "ExtensionDateTime\\Seasons.cs",
+              "ToolTip": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\Seasons.cs",
+              "RelativeToolTip": "ExtensionDateTime\\Seasons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:45:31.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionTest\\Test1.cs",
+              "RelativeDocumentMoniker": "ExtensionTest\\Test1.cs",
+              "ToolTip": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionTest\\Test1.cs",
+              "RelativeToolTip": "ExtensionTest\\Test1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T06:43:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DateTimeExtension.cs",
+              "DocumentMoniker": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\DateTimeExtension.cs",
+              "RelativeDocumentMoniker": "ExtensionDateTime\\DateTimeExtension.cs",
+              "ToolTip": "C:\\Users\\anna.tassinari\\source\\repos\\ExtensionDateTime\\ExtensionDateTime\\DateTimeExtension.cs",
+              "RelativeToolTip": "ExtensionDateTime\\DateTimeExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T06:42:03.879Z",
               "EditorCaption": ""
