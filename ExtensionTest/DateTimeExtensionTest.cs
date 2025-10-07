@@ -102,7 +102,7 @@ namespace ExtensionTest
         public void DaysUntilNextSeason_DatesAreOk_ShouldReturnDaysLeftUntilNExtSeason()
         {
             DateTime date = new DateTime(2023, 4, 15);
-            int expectedDays = 66; 
+            int expectedDays = 67; 
             int actualDays = DateTimeExtension.DaysUntilNextSeason(date);
             Assert.AreEqual(expectedDays, actualDays);
         }

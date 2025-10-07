@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtensionDateTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4c447ab1ed68252c7cdb52ff080741d38665019")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+292f00ac8e28ffe53c1a29b60c6bde5ce75dfb77")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtensionDateTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtensionDateTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

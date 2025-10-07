@@ -1,0 +1,12 @@
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\bin\Debug\net8.0\ExtensionDateTime.deps.json
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\bin\Debug\net8.0\ExtensionDateTime.dll
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\bin\Debug\net8.0\ExtensionDateTime.pdb
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.AssemblyInfoInputs.cache
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.AssemblyInfo.cs
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.csproj.CoreCompileInputs.cache
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.sourcelink.json
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.dll
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\refint\ExtensionDateTime.dll
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ExtensionDateTime.pdb
+C:\Users\anna.tassinari\Desktop\Nuova cartella\ExtensionDateTime\ExtensionDateTime\obj\Debug\net8.0\ref\ExtensionDateTime.dll
